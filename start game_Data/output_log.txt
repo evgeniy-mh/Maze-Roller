@@ -1,0 +1,83 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7640G (ID=0x9903)
+    Vendor:   ATI
+    VRAM:     2510 MB
+    Driver:   13.152.1.1000
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Merged Volume 'Files'\Unity\proj\Roll A Ball\start game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Merged Volume 'Files'\Unity\proj\Roll A Ball\start game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Merged Volume 'Files'\Unity\proj\Roll A Ball\start game_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\Merged Volume 'Files'\Unity\proj\Roll A Ball\start game_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Merged Volume 'Files'\Unity\proj\Roll A Ball\start game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Merged Volume 'Files'\Unity\proj\Roll A Ball\start game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Merged Volume 'Files'\Unity\proj\Roll A Ball\start game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Merged Volume 'Files'\Unity\proj\Roll A Ball\start game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Merged Volume 'Files'\Unity\proj\Roll A Ball\start game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Merged Volume 'Files'\Unity\proj\Roll A Ball\start game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Merged Volume 'Files'\Unity\proj\Roll A Ball\start game_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading E:\Merged Volume 'Files'\Unity\proj\Roll A Ball\start game_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: E:\Merged Volume 'Files'\Unity\proj\Roll A Ball\start game_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading E:\Merged Volume 'Files'\Unity\proj\Roll A Ball\start game_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+- Completed reload, in  0.066 seconds
+Platform assembly: E:\Merged Volume 'Files'\Unity\proj\Roll A Ball\start game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Merged Volume 'Files'\Unity\proj\Roll A Ball\start game_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on PhotonHandler
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+UnloadTime: 2.126178 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 990 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.029911 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 591.
+Total: 0.924000 ms (FindLiveObjects: 0.095333 ms CreateObjectMapping: 0.058666 ms MarkObjects: 0.708888 ms  DeleteObjects: 0.051333 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.851245 ms
+
+Unloading 362 unused Assets to reduce memory usage. Loaded Objects now: 572.
+Total: 2.856089 ms (FindLiveObjects: 0.098266 ms CreateObjectMapping: 0.087511 ms MarkObjects: 0.749955 ms  DeleteObjects: 1.909600 ms)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.148889 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 591.
+Total: 0.804711 ms (FindLiveObjects: 0.072355 ms CreateObjectMapping: 0.069422 ms MarkObjects: 0.621377 ms  DeleteObjects: 0.032266 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 14.356224 ms
+
+Unloading 434 unused Assets to reduce memory usage. Loaded Objects now: 572.
+Total: 3.014000 ms (FindLiveObjects: 0.098266 ms CreateObjectMapping: 0.077244 ms MarkObjects: 0.827688 ms  DeleteObjects: 2.002000 ms)
+
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

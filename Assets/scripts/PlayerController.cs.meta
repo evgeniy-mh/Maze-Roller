@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d5eb130d06a6bee42a75e0f51d2672c3
+timeCreated: 1460475303
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - playerFlarePrefab: {fileID: 157030, guid: cb6b62e62d3d35c49ba6f9feb5d754f7, type: 2}
+  - playerTransparent: {fileID: 2100000, guid: a58226c0d2e0d9548953baad04612c2e, type: 2}
+  - playerFlare: {fileID: 157030, guid: cb6b62e62d3d35c49ba6f9feb5d754f7, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
